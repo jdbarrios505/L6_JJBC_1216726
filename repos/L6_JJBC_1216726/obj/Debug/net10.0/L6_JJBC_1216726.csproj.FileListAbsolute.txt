@@ -1,0 +1,15 @@
+C:\Users\julian\source\repos\L6_JJBC_1216726\bin\Debug\net10.0\L6_JJBC_1216726.exe
+C:\Users\julian\source\repos\L6_JJBC_1216726\bin\Debug\net10.0\L6_JJBC_1216726.deps.json
+C:\Users\julian\source\repos\L6_JJBC_1216726\bin\Debug\net10.0\L6_JJBC_1216726.runtimeconfig.json
+C:\Users\julian\source\repos\L6_JJBC_1216726\bin\Debug\net10.0\L6_JJBC_1216726.dll
+C:\Users\julian\source\repos\L6_JJBC_1216726\bin\Debug\net10.0\L6_JJBC_1216726.pdb
+C:\Users\julian\source\repos\L6_JJBC_1216726\obj\Debug\net10.0\L6_JJBC_1216726.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julian\source\repos\L6_JJBC_1216726\obj\Debug\net10.0\L6_JJBC_1216726.AssemblyInfoInputs.cache
+C:\Users\julian\source\repos\L6_JJBC_1216726\obj\Debug\net10.0\L6_JJBC_1216726.AssemblyInfo.cs
+C:\Users\julian\source\repos\L6_JJBC_1216726\obj\Debug\net10.0\L6_JJBC_1216726.csproj.CoreCompileInputs.cache
+C:\Users\julian\source\repos\L6_JJBC_1216726\obj\Debug\net10.0\L6_JJBC_1216726.dll
+C:\Users\julian\source\repos\L6_JJBC_1216726\obj\Debug\net10.0\refint\L6_JJBC_1216726.dll
+C:\Users\julian\source\repos\L6_JJBC_1216726\obj\Debug\net10.0\L6_JJBC_1216726.pdb
+C:\Users\julian\source\repos\L6_JJBC_1216726\obj\Debug\net10.0\L6_JJBC_1216726.genruntimeconfig.cache
+C:\Users\julian\source\repos\L6_JJBC_1216726\obj\Debug\net10.0\ref\L6_JJBC_1216726.dll
+C:\Users\julian\source\repos\L6_JJBC_1216726\obj\Debug\net10.0\L6_JJBC_1216726.sourcelink.json
